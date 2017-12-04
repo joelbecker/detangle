@@ -1,4 +1,4 @@
-# detangle: A Python framework for detangling data wrangling.
+# detangle
 
 `detangle` is the working title of an open source data science tool for managing complex data analysis pipelines using Python and the command line.
 
