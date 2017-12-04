@@ -1,6 +1,6 @@
 # detangle
 
-`detangle` is the working title of an open source data science tool for managing complex data analysis pipelines using Python and the command line.
+`detangle` is the working title of an open source data science tool for managing complex data analysis projects using Python and the command line.
 
 Planned Features:
 * Track project steps, dependencies, and branches using a graph-like data structure.
