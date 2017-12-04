@@ -4,5 +4,5 @@
 
 Planned Features:
 * Track project steps, dependencies, and branches using a graph-like data structure.
-* Automating serialized data storage to manage cascading changes in data products.
+* Automating serialized data storage to manage cascading changes in data resources.
 * Command-line interface for project-level management, visualization, and diagnostics.
